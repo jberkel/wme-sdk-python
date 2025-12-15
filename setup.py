@@ -5,9 +5,6 @@ setup(
     version="0.1",
     packages=find_packages(),
     install_requires=[
-        "matplotlib==3.10.0",
-        "pandas==2.2.3",
-        "pytest==8.3.3",
         "python-dotenv==1.0.1",
         "requests==2.32.3",
     ],
